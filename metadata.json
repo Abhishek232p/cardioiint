@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Cardio Monitoring System",
+  "description": "An intermediate-level academic project for monitoring cardiovascular health using real-time visualization and Gemini AI for health risk prediction and anomaly detection.",
+  "requestFramePermissions": []
+}
